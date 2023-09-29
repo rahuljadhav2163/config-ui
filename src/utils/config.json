@@ -1,0 +1,31 @@
+{
+    "title"  : "Chaitanya Sweet Shop, Pune",
+    "slogen" : "Ek Bar Khake to Dekho,Bar-Bar Khaoge...😀",
+    "item":[
+        {
+            "name" : "Pedhe",
+            "price" : "200 RS",
+            "img" : "https://www.bloomsonly.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/p/e/pedhe.jpg"
+        },
+        {
+             "name": "Laddu",
+             "price" : "180 Rs",
+             "img" : "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Roop/Besan_Ke_Laddu.jpg"
+        },
+        {
+            "name": "Barfi",
+            "price": "120 Rs",
+            "img": "https://aartimadan.com/wp-content/uploads/2019/04/Suji-Barfi-1.jpg"
+        },
+        {
+            "name" : "Kaju-Katli",
+            "price" : "155 Rs",
+            "img" : "https://www.myvalue365.com/upload_images/product/1572108530-kamdar-kaju-katli.jpg"
+        },
+        {
+            "name":"Jamun",
+            "price": "220 RS",
+            "img": "https://www.wallpapertip.com/wmimgs/32-320073_gulab-jamun-high-resolution.jpg"
+        }
+    ]
+}
